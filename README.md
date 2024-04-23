@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CHANEE_CODE&fontSize=90)
 
 <!-- Intro  -->
-<h3 align="center">
+<h3 align="right">
         <samp>&gt; Hey There! I'm
                 <b>Chanhee han</b>
         </samp>
@@ -10,7 +10,7 @@
 <!-- About Section -->
  # About me
  
-<p>
+<p align="center">
 <!--  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   
  ✌️ &emsp; Enjoy to learn new skills! <br/><br/>
